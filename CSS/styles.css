@@ -10,7 +10,7 @@ body {
   font-size: 0.75rem;
   background-image: url(https://profile-card-1-3-git-main-alizzie.vercel.app/images/bg-pattern-bottom.svg), url(https://profile-card-1-3-git-main-alizzie.vercel.app/images/bg-pattern-top.svg);
   background-repeat: no-repeat;
-  background-position: top 52vh left 48vw,
+  background-position: top 54vh left 44vw,
                        bottom 33vh right 52vw;
   min-height: 100vh;
   flex-direction: column;
